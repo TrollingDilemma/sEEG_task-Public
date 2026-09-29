@@ -1,0 +1,6 @@
+# Python 3.10 64-bit is recommended for this project.
+# LabJack LJM Driver must be installed separately from LabJack's official installer.
+# setup_venv.py performs the recommended Windows installation flow.
+labjack-ljm
+psychopy==2026.1.3
+esprima==4.0.1

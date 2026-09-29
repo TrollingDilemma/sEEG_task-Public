@@ -1,0 +1,22 @@
+# Claude Code 안내 파일 / 로컬 설정 (레포에 올리지 않음)
+CLAUDE.md
+.claude/
+
+# 실행 로그 (폴더 구조만 유지, 실제 txt는 제외)
+task_done_texts/*.txt
+!task_done_texts/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+.vscode/
